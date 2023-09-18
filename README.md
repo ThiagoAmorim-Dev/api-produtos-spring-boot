@@ -1,2 +1,2 @@
 # SpringBootAPI
-Simples API with Spring Boot
+A Simples API with Spring Boot
