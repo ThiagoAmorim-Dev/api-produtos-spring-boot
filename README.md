@@ -1,2 +1,2 @@
-# api-produtos-spring-boot
-CRUD de produtos feito com Spring Boot
+# SpringBootAPI
+Simples API with Spring Boot
